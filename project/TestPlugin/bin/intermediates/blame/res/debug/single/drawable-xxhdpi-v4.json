@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/res/merged/debug/drawable-xxhdpi-v4/plugin_activity_loading_bitmap.9.png",
+        "source": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/Libraries/DroidPlugin/bin/intermediates/bundles/default/res/drawable-xxhdpi-v4/plugin_activity_loading_bitmap.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/res/merged/debug/drawable-xxhdpi-v4/plugin_activity_loading.xml",
+        "source": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/Libraries/DroidPlugin/bin/intermediates/bundles/default/res/drawable-xxhdpi-v4/plugin_activity_loading.xml"
+    }
+]

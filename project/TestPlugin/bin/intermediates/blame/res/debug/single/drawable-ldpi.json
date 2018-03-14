@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/res/merged/debug/drawable-ldpi/push.png",
+        "source": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/src/main/res/drawable-ldpi/push.png"
+    },
+    {
+        "merged": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/res/merged/debug/drawable-ldpi/push_small.png",
+        "source": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/src/main/res/drawable-ldpi/push_small.png"
+    }
+]

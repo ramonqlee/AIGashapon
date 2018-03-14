@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/ramonqlee/.android/build-cache/8e0a67db5785c86acfce33858beadc17b6c759d1/output/res/values-w500dp/values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 54,
+                        "endOffset": 282
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/pre-dexed/release/json_simple-1.1_1b7b277d60525b6f1ef65457803e52a7513b63dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/libs/GetuiSDK2.10.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fa5f206accc54f63357aef61409a9e88eccb8e">
+        <dex dex="/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/pre-dexed/release/GetuiSDK2.10.2.0_7d9fd201d9bbe964a15fd81c0e4ebd806a5084a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/Libraries/DroidPlugin/bin/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c54105c1e0bb77c0aa23325b1943d5f6474da6d">
+        <dex dex="/Volumes/Work/Shared/PHP/idreems/openvm/AIGashapon/project/TestPlugin/bin/intermediates/pre-dexed/release/classes_2c5a7bf4ae618eeb63b29cbdafedffea61ff3d2f.jar" />
+    </item>
+
+</items>
